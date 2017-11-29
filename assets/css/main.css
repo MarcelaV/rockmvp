@@ -1,0 +1,124 @@
+.container{
+	background: rgb(53, 58, 64);
+	color: white;
+	text-align: left;
+	padding: 0,5%;
+	font-size: 150%;
+}
+
+.container h4{
+	margin-left: 2%;
+}
+
+.container li{
+	float: right;
+	text-align: right;
+	width: 5%;
+}
+
+.listaheader{
+	list-style: none;
+	font-size: 58%;
+	text-align: right;
+}
+
+
+.primeraimagen{
+	background-image: url("../img/header.jpg");
+	background-size: cover;
+	padding-top: 37em;
+}
+
+#rock1{
+	color: white;
+	text-align: center;
+	top: 40%;
+	position: absolute;
+	font-size: 270%;
+
+}
+
+.container2{
+	background: white;
+	padding: 4em;
+
+}
+
+#fondorosa{
+	height: 20em;
+	width: 20em;
+	margin-left: 10%;
+	display: inline-block;
+}
+
+#fotorock{
+	height: 20em;
+	width: 20em;
+	margin-left: 20%;
+	display: inline-block;
+	background-image: url("../img/rock1.jpg");
+	border-radius: 50%;
+
+}
+
+
+
+
+
+.container3{
+	background: white;
+	padding: 4em;
+
+}
+
+#fondorosa2{
+	height: 20em;
+	width: 20em;
+	margin-left: 20%;
+	display: inline-block;
+}
+
+#fotorock2{
+	height: 20em;
+	width: 20em;
+	margin-left: 7%;
+	display: inline-block;
+	background-image: url("../img/rock3.jpg");
+	border-radius: 50%;
+}
+
+
+
+
+
+
+.container4{
+	background: white;
+	padding: 4em;
+
+}
+
+#fondorosa3{
+	height: 20em;
+	width: 20em;
+	margin-left: 10%;
+	display: inline-block;
+}
+
+#fotorock3{
+	height: 20em;
+	width: 20em;
+	margin-left: 20%;
+	display: inline-block;
+	background-image: url("../img/rock2.jpg");
+	border-radius: 50%;
+}
+
+
+
+.piepagina{
+	background: rgb(53, 58, 64);
+	padding: 0.5%;
+	color: white;
+	text-align: center;
+}
